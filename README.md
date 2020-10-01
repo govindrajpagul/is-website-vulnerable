@@ -28,7 +28,7 @@
 
 # About
 
-Finds publicly known security vulnerabilities in a website's frontend JavaScript libraries.
+Find publicly known security vulnerabilities in a website's frontend JavaScript libraries.
 
 # Usage
 
